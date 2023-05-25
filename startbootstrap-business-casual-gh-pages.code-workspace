@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../startbootstrap-business-casual-gh-pages"
+		},
+		{
+			"path": "../LetMeRemember/node_modules"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "startbootstrap-business-casual-gh-pages"
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "name": "startbootstrap-business-casual-gh-pages",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jefferson Sousa Silva 2021325 Yuna Jang 2021297",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^5.0.13",
+    "electron-builder": "^5.0.3",
+    "electron-package": "^0.1.0",
+    "mongoose": "^7.2.0",
+    "node-notifier": "^10.0.1",
+    "sqlite3": "^5.1.6",
+    "uuid": "^3.3.2"
+  }
+}
